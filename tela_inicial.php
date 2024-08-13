@@ -56,6 +56,11 @@
           <a class="nav-link disabled" href="#">Desativado</a>
         </li>
 
+        <div class="row mt-5">
+          <div class="col-6">
+          <a class="btn" href="index.php">Log Out</a>
+        </div>
+
       </ul>
 
       <form class="form-inline my-2 my-lg-0">

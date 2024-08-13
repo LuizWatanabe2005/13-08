@@ -66,7 +66,7 @@
                       <div class="row mt-5">
                         <div class="col-6">
                           <a class="btn btn-lg btn-warning btn-block" href="home.php">Voltar</a>
-                        </div>
+                      </div>
 
                         <?php if(isset($_GET['login']) && $_GET['login']=='erro') { ?>
                           <div class="text-danger">

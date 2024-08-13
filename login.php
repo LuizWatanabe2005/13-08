@@ -55,7 +55,7 @@
 
 
 
-                <button class="btn btn-lg btn-info btn-block" type="submit">Entrar</button>
+                <button class="btn btn-lg btn-info btn-block" href="tela_inicial.php">Entrar</button>
               </form>
             </div>
           </div>
